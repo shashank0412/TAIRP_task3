@@ -1,4 +1,4 @@
-# TAIRP_task3
+# Tech A Intern Web Development Task 3
 
 Link: https://drive.google.com/drive/folders/1DCotelX4Zc6uVF9b1nnb1hKPgTuMQUUf?usp=sharing
 
